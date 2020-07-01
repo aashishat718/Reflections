@@ -1,0 +1,7 @@
+Q1.) What happens when you initialize a repository? Why do you need to do it?
+When we initialise a repository, it becomes a git repository and .git repository is created which stores metadata of commit history.
+Now commits can done.
+
+Q2.)How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area helps us to save file information temporarily and wait for a logical change in repository in order to commit it once.
+
