@@ -5,3 +5,21 @@ Now commits can done.
 Q2.)How is the staging area different from the working directory and the repository? What value do you think it offers?
 Staging area helps us to save file information temporarily and wait for a logical change in repository in order to commit it once.
 
+Q3.)How can you use the staging area to make sure you have one commit per logical change?
+We can add our changes to staging area and when changes are enough for one logical change then, then commit it.
+
+Q4.)What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Branches are helpful when we want to make some changes,add features or change mode without affecting the original code.We can later merge these branches. 
+They are helpful as it doesnt make change to original working code and we merge it only when we are sure that new feature is working.
+
+Q5.)How do the diagrams help you visualize the branch structure?
+Diagram shows the parent commit of each commit along with its branch, hence it helps us to visualize the branch structure.
+
+Q6.)What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches merges the two codes and new features developed by different developers are added into the same project.
+The way we represent it in diagrams helps us to understand branch flow easily.
+
+Q7.)What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros - Merging automatically eases the work while manual merging reduces chances of code behaving abnormally.
+Cons - Merging automatically can lead code to work in improper way while merging mnually cn be annoying and might also increase human error 
+	   like forget to merge or merge at unnecessary times.
